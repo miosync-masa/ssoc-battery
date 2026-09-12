@@ -91,8 +91,9 @@ An 8-parameter analytical model that predicts σ for amorphous Li–P–S from c
 
 ```python
 from ssoc_lps_verification import sigma_model
-sigma = sigma_model(0.75, 1.72)   # → ~6.6 mS/cm at 500 K
+sigma = sigma_model(0.75, 1.72)   # → 3.42 mS/cm at 500 K (model prediction)
 ```
+Kim et al. report an observed maximum of ~6.4 mS/cm at the nearby point (x=0.75, ρ=1.73); the model under-predicts this by ~1.9×. See Paper 2, Appendix A.8.
 
 → **[Full details in ssoc-lps/README.md](ssoc-lps/)**
 
