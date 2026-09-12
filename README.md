@@ -81,7 +81,7 @@ governed by a single control coordinate: **effective free volume v_f = 1 − ρ/
 
 ---
 
-## Paper 1 — [SSOC: Conductivity Design Equation](ssoc-lps/)
+##  [SSOC: Conductivity Design Equation](ssoc-lps/)
 
 > *"How do I maximize ionic conductivity σ(x, ρ, T)?"*
 
@@ -98,7 +98,7 @@ sigma = sigma_model(0.75, 1.72)   # → ~6.6 mS/cm at 500 K
 
 ---
 
-## Paper 2 — [SSOC-Thermal: Charging Rate & Format Selection](Ssocthermal/)
+## [SSOC-Thermal: Charging Rate & Format Selection](Ssocthermal/)
 
 > *"Given σ, at what C-rate does thermal failure occur — and does cell format matter?"*
 
